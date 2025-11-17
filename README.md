@@ -28,6 +28,18 @@ Data persistence is handled by **Entity Framework Core** using an **InMemory Dat
 * **Pre-Seeded Data:** Starts with 3 ready-to-use student entries.
 
 ---
+## NuGet Packet Manager
+<img src="https://github.com/yashika-ishi/Weekly-Assignment-1---Dotnet-Track-/blob/main/Dependencies.png" width="1000"/>
+
+---
+
+## Solution Explorer
+<div align="center">
+  <img src="https://github.com/yashika-ishi/Weekly-Assignment-1---Dotnet-Track-/blob/main/Folder%20schema%201.png?raw=true" width="300" style="padding-right: 10px;"/>
+  <img src="https://github.com/yashika-ishi/Weekly-Assignment-1---Dotnet-Track-/blob/main/Folder%20schema%202.png?raw=true" width="300"/>
+</div>
+
+---
 ## 🏗 Project Architecture
 
 The solution is organized to reflect the principles of CQRS and the Mediator pattern, promoting a clean, maintainable structure.
