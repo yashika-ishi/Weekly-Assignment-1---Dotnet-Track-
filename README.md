@@ -29,7 +29,7 @@ Data persistence is handled by **Entity Framework Core** using an **InMemory Dat
 
 ---
 ## NuGet Packet Manager
-<img src="https://github.com/yashika-ishi/Weekly-Assignment-1---Dotnet-Track-/blob/main/Dependencies.png" width="1000"/>
+<img src="https://github.com/yashika-ishi/Weekly-Assignment-1---Dotnet-Track-/blob/main/Dependencies.png" width="600"/>
 
 ---
 
