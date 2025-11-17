@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\queries\\getallstudents\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\queries\\getallstudents\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\commands\\updatestudent\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\commands\\updatestudent\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\queries\\getallstudents\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\queries\\getallstudents\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\commands\\updatestudent\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\commands\\updatestudent\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\commands\\deletestudent\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\commands\\deletestudent\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\commands\\deletestudent\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\commands\\deletestudent\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\commands\\createstudent\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\commands\\createstudent\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\application\\commands\\createstudent\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:application\\commands\\createstudent\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|c:\\users\\anilk\\documents\\yashika\\chubb\\weekly assessment\\weekly assessment-1\\studentmanagementcqrs_yashika\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAF3E4D-511D-4A79-B85D-4C6F8D2EE1F5}|StudentManagementCQRS_Yashika.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\UpdateStudent\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\UpdateStudent\\UpdateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\UpdateStudent\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\UpdateStudent\\UpdateStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:02:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllStudentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Queries\\GetAllStudents\\GetAllStudentsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAllStudents\\GetAllStudentsQuery.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Queries\\GetAllStudents\\GetAllStudentsQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAllStudents\\GetAllStudentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:04:18.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:05:10.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:50:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllStudentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Queries\\GetAllStudents\\GetAllStudentsHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAllStudents\\GetAllStudentsHandler.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Queries\\GetAllStudents\\GetAllStudentsHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAllStudents\\GetAllStudentsHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:04:30.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\UpdateStudent\\UpdateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:02:24.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\DeleteStudent\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\DeleteStudent\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\DeleteStudent\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\DeleteStudent\\DeleteStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:03:30.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\DeleteStudent\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\DeleteStudent\\DeleteStudentCommand.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\DeleteStudent\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\DeleteStudent\\DeleteStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:03:18.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\CreateStudent\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\CreateStudent\\CreateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\CreateStudent\\CreateStudentCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\CreateStudent\\CreateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:01:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Application\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\CreateStudent\\CreateStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:01:47.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:57:20.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\anilk\\Documents\\Yashika\\CHUBB\\Weekly Assessment\\Weekly assessment-1\\StudentManagementCQRS_Yashika\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:59:02.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
